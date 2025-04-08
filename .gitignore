@@ -1,0 +1,20 @@
+# Ignore virtual environments
+venv/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Streamlit cache (if any)
+.streamlit/
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#pyenv version
+.python-version
